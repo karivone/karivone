@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karivone
 - 👀 I’m interested in fashion and cooking.
-- 🌱 I’m currently learning on how to make app for my interests.
-- 💞️ I’m looking to collaborate on making and alunching the apps.
+- 🌱 I’m currently learning on how to be a software engineer.
+- 💞️ I’m looking to collaborate with  fellow tech enthusiastic individuals.
 - 📫 How to reach me on my email karimiyvonne19@gmail.com
 
 <!---
