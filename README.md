@@ -1,4 +1,4 @@
-[![MasterHead](https://www.kindpng.com/picc/m/616-6162032_banner-programming-hd-png-download.png)
+![MasterHead](https://www.kindpng.com/picc/m/616-6162032_banner-programming-hd-png-download.png)
 <h1 align="center">Hi 👋, I'm Karimi Yvonne</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karivone&" alt="karivone" /></p>
 
 <h3 align="left">Snake eating my contribution graph:</h3>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/karivone/karivone/blob/output/github-contribution-grid-snake.gif)
