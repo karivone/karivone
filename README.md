@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karivone&show_icons=true&locale=en" alt="karivone" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karivone&" alt="karivone" /></p>
+
+<h3 align="left">Snake eating my contribution graph:</h3>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
