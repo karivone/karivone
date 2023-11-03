@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karivone&label=Profile%20views&color=0e75b6&style=flat" alt="karivone" /> </p>
 
-- 🔭 I’m currently working on **Making shell**
+- 🔭 I’m currently working on **work searching app**
 
 - 🌱 I’m currently learning **Json, React, Laravel**
 
-- 💬 Ask me about **Python, C , Javascript**
+- 💬 Ask me about **Python, C , Java, Javascript**
 
 - 📫 How to reach me **karimiyvonne19@gmail.com**
 
